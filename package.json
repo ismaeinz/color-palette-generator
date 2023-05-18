@@ -9,7 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@mapbox/node-pre-gyp": "^1.0.10",
     "autoprefixer": "10.4.14",
+    "colorthief": "^2.4.0",
     "eslint": "8.40.0",
     "eslint-config-next": "13.4.2",
     "next": "13.4.2",
